@@ -1,0 +1,17 @@
+@font-face {
+  font-family: BrandonText-Regular;
+  src: url("https://dwzg4by77d66i.cloudfront.net/assets/front/fonts/brandon/BrandonText-Regular-1c4362408888bc2ebdafbe41e919081c6cb30ded87706d1c955520451a5df83c.woff2");
+}
+
+@font-face {
+  font-family: BrandonGrotesque-Black;
+  src: url("https://dwzg4by77d66i.cloudfront.net/assets/front/fonts/brandon/BrandonGrotesque-Black-b91cf87e6b2f7be14cc49d76334eebcd4cbca3dbe1f2dc7ed81bfc4b32ca1abf.woff2");
+}
+
+html,
+body,
+#root {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
